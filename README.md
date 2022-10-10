@@ -20,7 +20,7 @@ You can view the instructions from https://www.youtube.com/watch?v=VnjeR-bsRM4&l
 14. Add Menu Item
 15. Delete Page
 16. Add Blog Post 
-17. Set Blog To Homepage - `Settings/Reading/Posts Page set to "log"`
+17. Set Blog To Homepage - `Settings/Reading/Posts Page set to "Blog"`
 18. Create Blog Page 
 19. Delete Blog Post
 20. Live Chat - `Smartsupp Live Chat`
