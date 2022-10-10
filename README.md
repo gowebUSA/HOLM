@@ -11,12 +11,12 @@ You can view the instructions from https://www.youtube.com/watch?v=VnjeR-bsRM4&l
 5. Delete Plugins
 6. Update Permalinks - `Settings/Permalinks/Post Name`
 7. Search Engine Ready - `Settings/Reading/Seach Engine Visibility/UnChecked`
-8. Install Theme - Astra
+8. Install Theme - `Astra`
 9. Install Template - `Starter Template`
 10. Backup Website - `All-in-One WP Migration`
 11. Change Website Name
 12. Create a New Page
-13. Transparent Menu 
+13. Transparent Menu - 'On page, click on "Edit Page", then Astra icon/Advance Settings/Transparent Header "Enabled"'
 14. Add Menu Item
 15. Delete Page
 16. Add Blog Post 
