@@ -6,4 +6,4 @@
 - Starter Templates
 - The Events Calendar
 - Widget Options
-- WPFormds Lite
+- WPFormds Lite + Google Recaptcha v3 Enabled
