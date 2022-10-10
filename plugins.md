@@ -4,5 +4,6 @@
 - Event Tickets
 - Smartsupp Live Chat
 - Starter Templates
-- Events Calendar
-- 
+- The Events Calendar
+- Widget Options
+- WPFormds Lite
